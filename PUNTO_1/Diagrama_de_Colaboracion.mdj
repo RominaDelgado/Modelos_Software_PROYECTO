@@ -2429,6 +2429,51 @@
 									},
 									"showProperty": true,
 									"showType": true
+								},
+								{
+									"_type": "EllipseView",
+									"_id": "AAAAAAFf78rdr0VEdyc=",
+									"_parent": {
+										"$ref": "AAAAAAFf5mhXiNaK7Zo="
+									},
+									"visible": true,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"showShadow": true,
+									"containerChangeable": false,
+									"containerExtending": false,
+									"left": 104,
+									"top": 152,
+									"width": 16,
+									"height": 16,
+									"autoResize": false
+								},
+								{
+									"_type": "UMLNoteLinkView",
+									"_id": "AAAAAAFf78sqIkVi9AE=",
+									"_parent": {
+										"$ref": "AAAAAAFf5mhXiNaK7Zo="
+									},
+									"visible": true,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"showShadow": true,
+									"containerChangeable": false,
+									"containerExtending": false,
+									"head": {
+										"$ref": "AAAAAAFf5mh5RtaZedU="
+									},
+									"tail": {
+										"$ref": "AAAAAAFf78rdr0VEdyc="
+									},
+									"lineStyle": 1,
+									"points": "120:159;215:158"
 								}
 							],
 							"showSequenceNumber": true,
