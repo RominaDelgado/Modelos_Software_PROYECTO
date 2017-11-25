@@ -6681,7 +6681,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFf65egx+Y6Qds="
 							},
-							"name": "SequenceDiagram1",
+							"name": "Escenario exitoso de Reserva",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -6712,11 +6712,11 @@
 											"containerExtending": false,
 											"left": 326.97900390625,
 											"top": 5,
-											"width": 115.9052734375,
+											"width": 173.70068359375,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "SequenceDiagram1",
+											"text": "Escenario exitoso de Reserva",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -6760,7 +6760,7 @@
 									"left": 256,
 									"top": 0,
 									"width": 1281,
-									"height": 595,
+									"height": 361,
 									"autoResize": false,
 									"nameLabel": {
 										"$ref": "AAAAAAFf65egx+Y9SXQ="
@@ -9385,9 +9385,9 @@
 											"showShadow": true,
 											"containerChangeable": false,
 											"containerExtending": false,
-											"left": 443,
+											"left": 441,
 											"top": 324,
-											"width": 49.1435546875,
+											"width": 53,
 											"height": 13,
 											"autoResize": false,
 											"alpha": 1.5707963267948966,
